@@ -4,8 +4,11 @@
         "name": "Better Boom",
         "version": "1.0-beta",
         "description": "Makes more realistic explosions!",
+        "dependencies": [
+            "spongeapi@6.0.0-SNAPSHOT"
+        ],
         "requiredMods": [
-            "spongeapi@5.0.0"
+            "spongeapi@6.0.0-SNAPSHOT"
         ]
     }
 ]
