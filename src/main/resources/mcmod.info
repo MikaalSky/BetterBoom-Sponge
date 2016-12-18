@@ -1,0 +1,12 @@
+[{
+    "modid": "betterboom",
+    "name": "Better Boom",
+    "version": "1.0-beta",
+    "description": "Better Explosions!",
+    "authorList": [
+        "Loki (MikaalSky)"
+    ],
+    "dependencies": [
+
+    ]
+}]
