@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pw.debughusky</groupId>
-    <artifactId>TestPlugin1</artifactId>
+    <artifactId>BetterBoom</artifactId>
     <version>1.0-SNAPSHOT</version>
     <repositories>
         <repository>
