@@ -1,12 +1,11 @@
-[{
-    "modid": "betterboom",
-    "name": "Better Boom",
-    "version": "1.0",
-    "description": "Better Explosions!",
-    "authorList": [
-        "Loki (MikaalSky)"
-    ],
-    "dependencies": [
-
-    ]
-}]
+[
+    {
+        "modid": "betterboom",
+        "name": "Better Boom",
+        "version": "1.0-beta",
+        "description": "Makes more realistic explosions!",
+        "requiredMods": [
+            "spongeapi@5.0.0"
+        ]
+    }
+]
