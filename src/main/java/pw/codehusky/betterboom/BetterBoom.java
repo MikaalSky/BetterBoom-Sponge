@@ -1,4 +1,4 @@
-package pw.debughusky.betterboom;
+package pw.codehusky.betterboom;
 
 import com.flowpowered.math.vector.Vector3d;
 import com.google.inject.Inject;
